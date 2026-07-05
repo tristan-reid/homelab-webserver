@@ -97,23 +97,6 @@ Cloudflare Deployment Tunnel:
                     ▼
                 Portfolio Website
 
-## Screenshots
-
-<img width="1470" height="879" alt="website-live" src="https://github.com/user-attachments/assets/92652f2a-f06d-4039-bd8a-025007581678" />
-(website runnning on the internet)
-
-<img width="566" height="163" alt="image" src="https://github.com/user-attachments/assets/8cf78f72-ddf2-47bf-af77-7746949ef948" />
-(cloudflared service running)
-
-<img width="565" height="285" alt="image" src="https://github.com/user-attachments/assets/888824d3-16cf-4080-9305-f307434c791b" />
-(nginx service running)
-
-<img width="435" height="188" alt="image" src="https://github.com/user-attachments/assets/5ee935cf-ddb9-4425-9c3d-21837e5171bb" />
-(configured firewall up and running)
-
-<img width="739" height="100" alt="image" src="https://github.com/user-attachments/assets/219990e8-1a5b-4aee-acd5-17be666df64d" />
-(tunnel up and in healthy status)
-
 ## Skills Demonstrated
 
 - Linux Administration
