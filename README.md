@@ -8,6 +8,8 @@ The project involved Linux administration, networking, DNS configuration, firewa
 
 Due to not being able to always having my server running, I have provided screenshots as proof of the functioning, running instance of the static site and services
 
+The website 
+
 ## Technologies
 
 - Ubuntu Server (VMware Fusion ISO)
@@ -110,3 +112,5 @@ Cloudflare Deployment Tunnel:
 - UFW Firewall
 - SSH
 - Virtualization
+
+(The website design and portions of the frontend implementation were developed with the assistance of AI tools. All infrastructure setup, networking configuration, server administration, DNS configuration, Cloudflare Tunnel deployment, troubleshooting, and system integration were implemented and managed by me.)
