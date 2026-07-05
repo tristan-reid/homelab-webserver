@@ -6,6 +6,8 @@ Built and deployed a publicly accessible website hosted on an Ubuntu Server VM u
 
 The project involved Linux administration, networking, DNS configuration, firewall management, service management, and troubleshooting residential ISP CGNAT restrictions.
 
+Due to not being able to always having my server running, I have provided screenshots as proof of the functioning, running instance of the static site and services
+
 ## Technologies
 
 - Ubuntu Server (VMware Fusion ISO)
